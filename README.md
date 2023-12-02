@@ -1,4 +1,4 @@
-# EDX-Courses
+# EDX Courses
 In this mini project of Data Visualization and Analysis, we have learnt the use of Pandas which is a software library of Python used for data manipulation and analysis.
 
 For Data Visualization we have used Matplotlib, Plotly and Seaborn, which are Python plotting libraries covering wide range of charts and graphs. The following types of graph has been used:
